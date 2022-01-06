@@ -5,7 +5,7 @@ This is a search app that runs on Next.js. It uses:
 - Vercel for hosting 
 - Block.css for styling 
 
-![public/preview.png]
+![](public/preview.png)
 
 To run, install packages then run 
 
