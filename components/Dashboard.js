@@ -58,7 +58,7 @@ function SearchBar({ inputValue, onInputChange }) {
         id="create-task-input"
         type="text"
         className="textArea"
-        placeholder="Search a keywordf..."
+        placeholder="Search a keyword..."
       />
     </section>
   );
