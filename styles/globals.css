@@ -14,3 +14,30 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.textArea {
+  font-size: 1em;
+  box-sizing: border-box;
+  padding: 6px 8px;
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.result {
+  height: 30rem;
+  width: 20rem;
+}
+.info {
+  text-align: right;
+  margin-right: 0.5rem;
+}
+
+.hint {
+  color: gray;
+  padding: 0.5rem;
+}
